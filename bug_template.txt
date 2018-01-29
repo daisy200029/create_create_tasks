@@ -1,0 +1,31 @@
+@des
+*Platform*
+iOS 11.3
+
+*App version*
+testflight 2.41.0 (480)
+
+*Environment*
+PROD
+
+*Steps*
+# seller create listing and click "more info for payment and shipping "
+
+*Actual Result*
+unable to click
+
+*Expectation*
+able to click and bring user to 711 package info
+
+@summary
+Unable to click "more info for payment and shipping "
+
+@assignee
+daisy.liu
+
+@photos
+NULL
+
+
+
+!exit

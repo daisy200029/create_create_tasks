@@ -1,0 +1,63 @@
+@des
+*Platform*
+iPhone 6, iOS 9.3.1
+
+*App version*
+2.33.0(445)
+
+*Environment*
+PROD
+
+*Steps*
+# Tap Sell button
+# Choose photo    
+ 
+
+*Actual Result*
+Unable to save photo
+
+*Expectation*
+Able to save photo
+
+
+
+@summary
+[regression] unable to click the button
+
+@assignee
+daisy.liu
+
+@photos
+NULL
+
+@des
+*Platform*
+iPhone 6, iOS 9.3.1
+
+*App version*
+2.33.0(445)
+
+*Environment*
+PROD
+
+*Steps*
+# Tap Sell button
+# Choose photo    
+ 
+
+*Actual Result*
+Unable to save photo
+
+*Expectation*
+Able to save photo
+
+@summary
+[regression] unable to click the button
+
+@assignee
+daisy.liu
+
+@photos
+TEST1.PNG,TEST3.PNG
+
+!exit

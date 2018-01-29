@@ -1,0 +1,33 @@
+https://llesuorac.com/p/whatever-52926/?ref=profile&ref_referrer=%2F104stage%2F&ref_sId=238
+
+@des
+*Platform*
+Chome 61.0.3163.91
+
+*Environment*
+stage https://llesuorac.com/
+
+*Steps*
+# login 104stage/stage123
+# go to profile
+# click "whatever" (listing_id=52926)
+*Actual Result*
+Unable to see 7-11 label
+
+*Expectation*
+Able to see 7-11 label
+
+*Note*
+After reloading the page, it shows 7-11 label
+
+
+@summary
+[Web] Unable to show 711 label for listing with 7-11 option
+
+@assignee
+Daisy.liu
+
+@photos
+NULL
+
+!exit
