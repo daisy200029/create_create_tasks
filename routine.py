@@ -248,6 +248,7 @@ class routine:
 
 
 if __name__ == "__main__":
+      routine1=routine('<user_name>','<password>')
   # {In Acceptance Testing}
   # {In Testing}
   # routine1.auto_createTask_MoveTickets()
