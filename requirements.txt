@@ -1,5 +1,5 @@
 requests==2.18.4
 setuptools==18.5
 image==1.5.16
-urllib3==1.22
+urllib3==1.26.5
 jira==1.0.14
